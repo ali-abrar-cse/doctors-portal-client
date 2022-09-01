@@ -1,7 +1,6 @@
 # Doctors Portal
 
-Its a web app based on dental care. In this a patient can book the services he wants according to his/her suitable time schedule. Before placing a order the user needs to be registered. 
-Live Link: https://doctors-portal-1d75e.web.app/
+Its a web app based on dental care. In this a patient can book the services he wants according to his/her suitable time schedule. Before placing a order the user needs to be registered.
 
 # Key Features:
 
